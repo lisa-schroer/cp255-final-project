@@ -14,7 +14,7 @@
 ![Picture3](https://github.com/lisa-schroer/cp255-final-project/assets/157168522/8f5f4970-88cd-4093-99cf-6c7f3745a288)
 
 ## 03 Methodology
-The following graphic outlines my methodology. I first cleaned both data sets to represent my variables of focus, then performed a spatial join between mapped bike and pedestrian collision points and buffered bike boulevard line segmennts (approximately 300 feet in length and buffered by 200 feet). Following the spatial join, I joined the collision counts per bike boulevard segment back to the bike boulevard network and calculated the normalized bike and pedestrian collision rate per foot of bike boulevard. 
+The following graphic outlines the methodological approach to answering my research question. I first cleaned both data sets to represent my variables of focus, then performed a spatial join between mapped bike and pedestrian collision points and buffered bike boulevard line segmennts (approximately 300 feet in length and buffered by 200 feet to capture lack of precision in collision location along the network). Following the spatial join, I table joined the collision counts per bike boulevard segment back to the bike boulevard network and calculated the normalized bike and pedestrian collision rate per foot of bike boulevard. 
 ![1714928801772-de66315a-d321-4e58-8239-b4e1aa2b9087_4](https://github.com/lisa-schroer/cp255-final-project/assets/157168522/d5bf9182-43b0-45fd-b87b-6e11062e549b)
 
 ## 04 Key Findings
