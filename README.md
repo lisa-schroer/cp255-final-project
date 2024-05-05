@@ -20,7 +20,7 @@ The following graphic outlines the methodology used to answering my research que
 ## 04 Key Findings
 The resulting map shows bike and pedestrian collision density along Berkeley's bike boulevard network. As shown through the clustering of higher density network segments, we can see that bike and pedestrian collisions are not evenly distributed along the network. Rather, some areas of the bike boulevard network experience higher rates of collisions compared to others. Notable locations with higher densities on the map below include: California Street north of University Avenue, the intersection of Russell Street and Adeline Street, Channing Way between Sacramento Street and MLK Jr Way, and the intersection of Hillegass Avenue and Dwight Way.  
 ![Picture4](https://github.com/lisa-schroer/cp255-final-project/assets/157168522/2325ec35-b3ee-4e09-9838-a17958a90c52)
-
+![Picture6](https://github.com/lisa-schroer/cp255-final-project/assets/157168522/19c20b79-6d4d-4388-afd7-f5eb52df8cd7)
 ![Picture5](https://github.com/lisa-schroer/cp255-final-project/assets/157168522/98f190f2-0370-4ef8-a3f9-58f8f26513c6)
 
 ## 05 Implications
