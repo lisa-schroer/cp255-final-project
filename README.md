@@ -4,17 +4,17 @@
 ![bblvd_pic](https://github.com/lisa-schroer/cp255-final-project/assets/157168522/c1f9f7fa-c059-49f4-b327-6ac8cc7ff707)
 
 ## 01 Research Question
-#### For the purpose of this project, I chose to answer the question, "are bike boulevards equitable?" through an analytical safety lens. The following analysis uses bike and pedestrian collision data to understand how collision density varies along Berkeley's bike boulevard network. Bike boulevards are often lauded by planners as safe and comfortable facilities for all ages and abilities. However, given the historical disadvantegment of West Berkeley and the lack of robust intersection improvement recommendations in Berkeley's 2017 Bicycle Master Plan, my hypothesis is that some segments of the bike boulevard network are more safe than others.  
+#### For the purpose of this project, I chose to answer the question, "are bike boulevards equitable?" through an analytical safety lens. The following analysis uses bike and pedestrian collision data to understand how collision density varies along Berkeley's bike boulevard network. Bike boulevards are often lauded by planners as safe and comfortable facilities for all ages and abilities. However, given the historical disadvantagement of West Berkeley and the lack of robust intersection improvement recommendations in Berkeley's 2017 Bicycle Master Plan, my hypothesis is that some segments of the bike boulevard network are more safe than others.  
 
 ## 02 Data
-#### Bike network data from the Berkeley Bicycle Plan Update (in-progress, expected in 2023 but plan is delayed) // shapefile
+#### - Bike network data from the Berkeley Bicycle Plan Update (in-progress, expected in 2023 but plan is delayed) // shapefile
 <img width="251" alt="Picture2" src="https://github.com/lisa-schroer/cp255-final-project/assets/157168522/b7c0c183-cd41-4537-8500-d4b03d0fc389">
 
-#### Collision data from UC Berkeley TIMS over a 5-year period from January 2018 to December 2022 // csv
+#### - Collision data from UC Berkeley TIMS over a 5-year period from January 2018 to December 2022 // csv
 ![Picture3](https://github.com/lisa-schroer/cp255-final-project/assets/157168522/8f5f4970-88cd-4093-99cf-6c7f3745a288)
 
 ## 03 Methodology
-
+The following graphic outlines my methodology. I first cleaned both data sets to represent my variables of focus, then performed a spatial join between mapped bike and pedestrian collision points and buffered bike boulevard line segmennts (approximately 300 feet in length and buffered by 200 feet). Following the spatial join, I joined the collision counts per bike boulevard segment back to the bike boulevard network and calculated the normalized bike and pedestrian collision rate per foot of bike boulevard. 
 ![1714928801772-de66315a-d321-4e58-8239-b4e1aa2b9087_4](https://github.com/lisa-schroer/cp255-final-project/assets/157168522/d5bf9182-43b0-45fd-b87b-6e11062e549b)
 
 ## 04 Key Findings
