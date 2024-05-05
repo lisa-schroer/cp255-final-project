@@ -1,5 +1,5 @@
-# Bike- and pedestrian related collisions along Berkeley's bike boulevard network
-## Lisa Schroer | May 6, 2024 | CYPLAN 255 Final Project
+# Bike- and pedestrian-related collisions along Berkeley's bike boulevard network
+### Lisa Schroer | May 6, 2024 | CYPLAN 255 Final Project
 
 ## 01 Research Question
 
