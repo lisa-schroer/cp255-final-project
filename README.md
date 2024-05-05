@@ -11,6 +11,7 @@
 
 ## 03 Methodology
 
+![1714928801772-de66315a-d321-4e58-8239-b4e1aa2b9087_4](https://github.com/lisa-schroer/cp255-final-project/assets/157168522/d5bf9182-43b0-45fd-b87b-6e11062e549b)
 
 ## 04 Key Findings
 
