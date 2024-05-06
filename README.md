@@ -10,6 +10,7 @@ For the purpose of this project, I chose to answer the question, "are bike boule
 - Bike network data from the Berkeley Bicycle Plan Update (in-progress, expected in 2023 but plan is delayed) // shapefile
 <img width="251" alt="Picture2" src="https://github.com/lisa-schroer/cp255-final-project/assets/157168522/b7c0c183-cd41-4537-8500-d4b03d0fc389">
 
+
 - Collision data from UC Berkeley TIMS over a 5-year period from January 2018 to December 2022 // csv
 ![Picture3](https://github.com/lisa-schroer/cp255-final-project/assets/157168522/8f5f4970-88cd-4093-99cf-6c7f3745a288)
 
@@ -40,6 +41,6 @@ Following the analysis of bike and pedestrian collision density along bike boule
 ## 05 Implications
 Many different factors contribute to bike boulevard equity. This analysis attempts to examine bike boulevards through the lens of safety and reported bike and pedestrian collision data. Results show that collison density is not evenly distributed along Berkeley's bike boulevard network. Some neighborhoods in Berkeley experience higher rates of bike and pedestrian collisions compared to others. Results also show that collision severity on bike boulevards is not significatly lower than other on-street bike facilities--indicating that further traffic calming measures and treatments on the existing bike boulevard network may be necessary in order to make bike boulevards truly safe and comfortable for all ages and abilities.
 
-Planners can use this analysis to inform infrastructure recommendations where there are higher collision densities. For example, further investigation may show that tall plants in an intersection roundabout are blocking drivers from seeing people biking or walking. Or that a lack of signalized bike bouelvard crossings of San Pablo Avenue is resulting in higher rates of bike and pedestrian collisions. By understanding the street design characteristics associated with higher collision density segments, planners can also predict where bike and pedestrian collisions may occur on the network in the future and proactively make improvements. 
+Planners can use this analysis to inform infrastructure recommendations where there are higher collision densities. For example, further investigation may show that tall plants in an intersection roundabout are blocking drivers from seeing people biking or walking. Or that a lack of signalized bike bouelvard crossings of San Pablo Avenue is resulting in higher rates of bike and pedestrian collisions. By understanding the street design characteristics associated with higher collision density segments, planners can predict where bike and pedestrian collisions may occur on the network in the future and proactively make improvements. 
 
 
