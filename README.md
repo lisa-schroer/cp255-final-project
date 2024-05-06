@@ -22,6 +22,7 @@ The map below shows bike and pedestrian collision density along Berkeley's bike 
 ![Picture4](https://github.com/lisa-schroer/cp255-final-project/assets/157168522/2325ec35-b3ee-4e09-9838-a17958a90c52)
 
 <img width="287" alt="picture7" src="https://github.com/lisa-schroer/cp255-final-project/assets/157168522/01ddc454-500a-4a01-8f6d-3727b752ee86">
+
 ![Picture6](https://github.com/lisa-schroer/cp255-final-project/assets/157168522/19c20b79-6d4d-4388-afd7-f5eb52df8cd7)
 ![Picture5](https://github.com/lisa-schroer/cp255-final-project/assets/157168522/98f190f2-0370-4ef8-a3f9-58f8f26513c6)
 
